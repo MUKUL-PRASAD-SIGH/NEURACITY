@@ -1,4 +1,16 @@
+HACKATHON NAME==HACK QUEST (ISE X MCA X AIDS -MSRIT)
+
+
+--->Team Name -Sky
+---->Team Members -
+Mukul Prasad
+Akash Biswas
+Divay Jain
+Sreejani
+
+
 # 🏙️ CaaS Platform - Waste Prediction MVP
+
 
 > **City as a System (CaaS)**: An AI-powered predictive waste management platform for smart cities
 
