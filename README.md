@@ -2,12 +2,13 @@ HACKATHON NAME==HACK QUEST (ISE X MCA X AIDS -MSRIT)
 
 
 --->Team Name -Sky
----->Team Members -
+--->Team Members -
 Mukul Prasad
 Akash Biswas
 Divay Jain
 Sreejani
 
+Documentation Link=https://www.notion.so/awscloudclubrit/NEURACITY-2c99c24dd3a9808fa352ec994a175442?source=copy_link
 
 # 🏙️ CaaS Platform - Waste Prediction MVP
 
